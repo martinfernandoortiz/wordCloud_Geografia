@@ -1,5 +1,6 @@
 # wordCloud Geografia
-Generación de una nube de palabras a partir de la circular del Congreso de Geografía
+Generación de una nube de palabras a partir de la circular del Congreso de Geografía. 
+**Consulta el notebook** ![aquí](https://github.com/martinfernandoortiz/wordCloud_Geografia/blob/main/wordCloud.ipynb) 
 
 Algunos ejemplos generados
 
