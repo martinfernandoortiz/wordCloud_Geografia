@@ -1,10 +1,3 @@
-<style>
-    /* Cambia el tamaño de la fuente para el bloque de código */
-    code {
-        font-size: 12px;
-    }
-</style>
-
 # Nube de palabras a partir de un PDF
 Generación de una nube de palabras utilizando python y un archivo pdf. En este caso, se utilizo la circular del Congreso de Geografía de Universidades Públicas del 2023 en Argentina. 
 La mayor parte del trabajo es curar el texto. Para este ejemplo, se elimino informacion logistica (horarios, nombres de aulas,etc) y nombres de personas. 
@@ -14,12 +7,6 @@ La mayor parte del trabajo es curar el texto. Para este ejemplo, se elimino info
 ## Algunos ejemplos generados
 
 ### WordCloud Circular - 20 Más frecuentes
-<style>
-    /* Cambia el tamaño de la fuente para el bloque de código */
-    code {
-        font-size: 12px;
-    }
-</style>
 
  ```python
 #Forma de Circulo
