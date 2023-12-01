@@ -10,7 +10,7 @@ WordCloud Circular - 20 Más frecuentes
 
 WordCloud Argentina
 
-![WordCloud Argentina](https://github.com/martinfernandoortiz/wordCloud_Geografia/blob/main/imagenes/argentina.jpg)"WordCloud Argentina")
+![WordCloud Argentina](https://github.com/martinfernandoortiz/wordCloud_Geografia/blob/main/imagenes/argentina.jpg)
 
 WordCloud Argentina Dark
 
